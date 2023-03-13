@@ -1,5 +1,7 @@
 # IntegrandoVSCode-GitBash
-Pequeno código json para configurar o terminal do Git Bash dentro do editor de texto Visual Studio Code:
+Pequeno código json para configurar o terminal do Git Bash dentro do editor de texto Visual Studio Code
+
+Copie e cole essas configurações no arquivo settings.json do Visual Studio code:
 
 ```json
 {
